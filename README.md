@@ -70,7 +70,7 @@ Vesture aims to make wardrobe tracking effortless. Instead of overthinking outfi
 
 Live Demo
 
-Vercel deployment: (add your link here)
+Vercel deployment: https://vesturetrack.vercel.app/
 
 Getting Started
 
