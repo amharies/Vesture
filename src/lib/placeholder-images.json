@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "top1",
+      "description": "A casual blue t-shirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1601087373050-0cb2aa6bf7ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxibHVlJTIwdC1zaGlydHxlbnwwfHx8fDE3NjI3NjI2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue t-shirt"
+    },
+    {
+      "id": "top2",
+      "description": "A formal white shirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aGl0ZSUyMHNoaXJ0fGVufDB8fHx8MTc2Mjc2NTg5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white shirt"
+    },
+    {
+      "id": "top3",
+      "description": "A gray hoodie.",
+      "imageUrl": "https://images.unsplash.com/photo-1622866654199-d36cf0709720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmF5JTIwaG9vZGllfGVufDB8fHx8MTc2MjY5NjQ0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gray hoodie"
+    },
+    {
+      "id": "top4",
+      "description": "A black sweatshirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1635715226585-004fef5a55a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibGFjayUyMHN3ZWF0c2hpcnR8ZW58MHx8fHwxNzYyNzY1ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black sweatshirt"
+    },
+    {
+      "id": "top5",
+      "description": "A knitted beige sweater.",
+      "imageUrl": "https://images.unsplash.com/photo-1646270968745-05e006d5bdd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxrbml0dGVkJTIwc3dlYXRlcnxlbnwwfHx8fDE3NjI3MTQzNjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "knitted sweater"
+    },
+    {
+      "id": "bottom1",
+      "description": "Denim shorts.",
+      "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZW5pbSUyMHNob3J0c3xlbnwwfHx8fDE3NjI3NjU4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "denim shorts"
+    },
+    {
+      "id": "bottom2",
+      "description": "Black chino pants.",
+      "imageUrl": "https://images.unsplash.com/photo-1570653321586-3bb42aaee967?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxibGFjayUyMHBhbnRzfGVufDB8fHx8MTc2Mjc2NTg5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black pants"
+    },
+    {
+      "id": "bottom3",
+      "description": "Gray cargo three-fourth pants.",
+      "imageUrl": "https://images.unsplash.com/photo-1719473448126-eb1159ec5242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYXJnbyUyMHNob3J0c3xlbnwwfHx8fDE3NjI3NjU4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cargo shorts"
+    },
+    {
+      "id": "bottom4",
+      "description": "Blue jeans.",
+      "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxibHVlJTIwamVhbnN8ZW58MHx8fHwxNzYyNzY1ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue jeans"
+    },
+    {
+      "id": "bottom5",
+      "description": "Khaki shorts.",
+      "imageUrl": "https://images.unsplash.com/photo-1608979223338-bb4c889fbd52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8a2hha2klMjBzaG9ydHN8ZW58MHx8fHwxNzYyNjcwMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "khaki shorts"
+    }
+  ]
+}
